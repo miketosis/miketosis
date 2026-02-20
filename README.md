@@ -1,5 +1,5 @@
 <p align="center">
-<img width="250" height="300" alt="image" src="https://i.postimg.cc/L8zMTMFj/Fredbera.webp" />
+<img width="150" height="200" alt="image" src="https://i.postimg.cc/L8zMTMFj/Fredbera.webp" />
 </p>
 
 <p align="center">
